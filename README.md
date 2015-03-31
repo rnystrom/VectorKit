@@ -1,6 +1,6 @@
 # VectorKit
 
-Sample library and playground for http://whoisryannystrom.com
+Sample library and playground for http://whoisryannystrom.com/2015/03/30/Visual-Playground-Unit-Tests/
 
 ## Contact
 
