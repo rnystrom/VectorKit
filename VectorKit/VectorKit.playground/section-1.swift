@@ -22,8 +22,8 @@ let bank = 30.0 * M_PI / 180.0
 let velocity = 15.0
 let initial = (x: 100.0, y: 100.0)
 let vector = (x: 300.0, y: 120.0)
-let heading = 360.0 * M_PI / 180.0
-let left = false
+let heading = 333.0 * M_PI / 180.0
+let left = true
 
 let plane = dot()
 plane.position = CGPoint(x: initial.x, y: initial.y)
